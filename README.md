@@ -19,7 +19,8 @@ To use the Unsplash API, you need to obtain an API key<br>
 # Usage
 1. Clone this repository:
 ```
-git clone https://github.com/votre_utilisateur/image-search-app.git
+git clone https://github.com/fallcoder/image-search-app.git
+cd image-search-app
 
 ```
 2. Open the index.html file in your web browser
